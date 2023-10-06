@@ -1,6 +1,6 @@
 const SECRET_KEY = '0x4AAAAAAAK0DzFiLnlD-tu_v4OFoL0pdJ0';
 
-export default{
+export function onRequest(ctx){
 	async fetch(request, env, ctx) {
 		const body = await request.formData();
 		// Turnstile injects a token in "cf-turnstile-response".
