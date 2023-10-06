@@ -1,4 +1,4 @@
-const SECRET_KEY = '0x4AAAAAAAKAsjvvb8wgwf0DQqhEzCTFkqg';
+const SECRET_KEY = '0x4AAAAAAAK0DzFiLnlD-tu_v4OFoL0pdJ0';
 
 export default{
 	async fetch(request, env, ctx) {
