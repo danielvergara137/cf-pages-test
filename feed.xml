@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ecofor.cl</title>
-    <link href="https://web-ecofor.pages.dev/feed.xml" rel="self" />
-    <link href="https://web-ecofor.pages.dev" />
+    <link href="https://cf-pages-test-01e.pages.dev/feed.xml" rel="self" />
+    <link href="https://cf-pages-test-01e.pages.dev" />
     <updated>2023-09-26T15:53:32-03:00</updated>
     <author>
         <name>daniel</name>
     </author>
-    <id>https://web-ecofor.pages.dev</id>
+    <id>https://cf-pages-test-01e.pages.dev</id>
 
     <entry>
         <title>Suit Forestal</title>
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/suit-forestal/"/>
-        <id>https://web-ecofor.pages.dev/suit-forestal/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/29/1-2.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/suit-forestal/"/>
+        <id>https://cf-pages-test-01e.pages.dev/suit-forestal/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/29/1-2.png" medium="image" />
             <category term="Productos"/>
 
         <updated>2023-09-26T10:13:49-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/29/1-2.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/29/1-2.png" alt="" />
                     <p class="align-left">Lorem Ipsum comes from sections 1.10.32 and of de Finibus Bonorum etmea.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/29/1-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/29/1-2.png" class="type:primaryImage" alt="" /></p>
                 
 <h2 class="align-left">Ergonomía en la </h2>
 <h2 class="align-left" style="margin-top: 0;">palma de la mano</h2>
 <p class="align-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas tortor non faucibus posuere. Nullam mi metus, auctor a ligula non, scelerisque fringilla nisl. Phasellus sit amet est varius, vestibulum magna non, interdum libero. Mauris at pretium leo. Vivamus non leo nisl. Fusce neque diam, tincidunt vitae sem eget, auctor posuere quam. Sed ornare purus vel felis auctor accumsan. Ut quis est at enim posuere commodo vitae sit amet sapien. Pellentesque maximus urna non venenatis dapibus. Nam interdum sapien at risus hendrerit dignissim. Morbi nec commodo metus, at hendrerit velit. Suspendisse et dictum erat. Vestibulum dignissim gravida odio, quis ornare.</p>
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://web-ecofor.pages.dev/media/posts/29/2.png" alt="" width="340" height="327" sizes="100vw" srcset="https://web-ecofor.pages.dev/media/posts/29/responsive/2-xs.png 300w ,https://web-ecofor.pages.dev/media/posts/29/responsive/2-sm.png 480w ,https://web-ecofor.pages.dev/media/posts/29/responsive/2-md.png 768w ,https://web-ecofor.pages.dev/media/posts/29/responsive/2-lg.png 1024w ,https://web-ecofor.pages.dev/media/posts/29/responsive/2-xl.png 1360w ,https://web-ecofor.pages.dev/media/posts/29/responsive/2-2xl.png 1600w"></figure>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://cf-pages-test-01e.pages.dev/media/posts/29/2.png" alt="" width="340" height="327" sizes="100vw" srcset="https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/2-xs.png 300w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/2-sm.png 480w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/2-md.png 768w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/2-lg.png 1024w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/2-xl.png 1360w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/2-2xl.png 1600w"></figure>
 <h2 class="align-right">Acelera y facilita</h2>
 <h2 class="align-right" style="margin-top: 0;">el proceso de registro</h2>
 <p class="align-right">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas tortor non faucibus posuere. Nullam mi metus, auctor a ligula non, scelerisque fringilla nisl. Phasellus sit amet est varius, vestibulum magna non, interdum libero. Mauris at pretium leo. Vivamus non leo nisl. Fusce neque diam, tincidunt vitae sem eget, auctor posuere quam. Sed ornare purus vel felis auctor accumsan. Ut quis est at enim posuere commodo vitae sit amet sapien. Pellentesque maximus urna non venenatis dapibus. Nam interdum sapien at risus hendrerit dignissim. Morbi nec commodo metus, at hendrerit velit. Suspendisse et dictum erat. Vestibulum dignissim gravida odio, quis ornare.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas tortor non faucibus posuere. Nullam mi metus, auctor a ligula non, scelerisque fringilla nisl. Phasellus sit amet est varius, vestibulum magna non, interdum libero. Mauris at pretium leo. Vivamus non leo nisl. Fusce neque diam, tincidunt vitae sem eget, auctor posuere quam. Sed ornare purus vel felis auctor accumsan. Ut quis est at enim posuere commodo vitae sit amet sapien. Pellentesque maximus urna non venenatis dapibus. Nam interdum sapien at risus hendrerit dignissim. Morbi nec commodo metus, at hendrerit velit. Suspendisse et dictum erat. Vestibulum dignissim gravida odio, quis ornare. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas tortor non faucibus posuere. Nullam mi metus, auctor a ligula non, scelerisque fringilla nisl. Phasellus sit amet est varius, vestibulum magna non, interdum libero. Mauris at pretium leo. Vivamus non leo nisl. Fusce neque diam, tincidunt vitae sem eget, auctor posuere quam. Sed ornare purus vel felis auctor accumsan. Ut quis est at enim posuere commodo vitae sit amet sapien. Pellentesque maximus urna non venenatis dapibus. Nam interdum sapien at risus hendrerit dignissim. Morbi nec commodo metus, at hendrerit velit. Suspendisse et dictum erat. Vestibulum dignissim gravida odio, quis ornare.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://web-ecofor.pages.dev/media/posts/29/3.png" alt="" width="1000" height="476" sizes="100vw" srcset="https://web-ecofor.pages.dev/media/posts/29/responsive/3-xs.png 300w ,https://web-ecofor.pages.dev/media/posts/29/responsive/3-sm.png 480w ,https://web-ecofor.pages.dev/media/posts/29/responsive/3-md.png 768w ,https://web-ecofor.pages.dev/media/posts/29/responsive/3-lg.png 1024w ,https://web-ecofor.pages.dev/media/posts/29/responsive/3-xl.png 1360w ,https://web-ecofor.pages.dev/media/posts/29/responsive/3-2xl.png 1600w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://cf-pages-test-01e.pages.dev/media/posts/29/3.png" alt="" width="1000" height="476" sizes="100vw" srcset="https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/3-xs.png 300w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/3-sm.png 480w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/3-md.png 768w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/3-lg.png 1024w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/3-xl.png 1360w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/3-2xl.png 1600w"></figure>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
 <tbody>
 <tr>
@@ -48,7 +48,7 @@
 </tr>
 </tbody>
 </table>
-<h2><figure class="post__image post__image--right"><img loading="lazy"  src="https://web-ecofor.pages.dev/media/posts/29/4.png" alt="" width="300" height="360" sizes="100vw" srcset="https://web-ecofor.pages.dev/media/posts/29/responsive/4-xs.png 300w ,https://web-ecofor.pages.dev/media/posts/29/responsive/4-sm.png 480w ,https://web-ecofor.pages.dev/media/posts/29/responsive/4-md.png 768w ,https://web-ecofor.pages.dev/media/posts/29/responsive/4-lg.png 1024w ,https://web-ecofor.pages.dev/media/posts/29/responsive/4-xl.png 1360w ,https://web-ecofor.pages.dev/media/posts/29/responsive/4-2xl.png 1600w"></figure></h2>
+<h2><figure class="post__image post__image--right"><img loading="lazy"  src="https://cf-pages-test-01e.pages.dev/media/posts/29/4.png" alt="" width="300" height="360" sizes="100vw" srcset="https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/4-xs.png 300w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/4-sm.png 480w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/4-md.png 768w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/4-lg.png 1024w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/4-xl.png 1360w ,https://cf-pages-test-01e.pages.dev/media/posts/29/responsive/4-2xl.png 1600w"></figure></h2>
 <h2 class="align-left">Conectividad y</h2>
 <h2 class="align-left" style="margin-top: 0;">Autogestión</h2>
 <p class="align-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas tortor non faucibus posuere. Nullam mi metus, auctor a ligula non, scelerisque fringilla nisl. Phasellus sit amet est varius, vestibulum magna non, interdum libero. Mauris at pretium leo. Vivamus non leo nisl. Fusce neque diam, tincidunt vitae sem eget, auctor posuere quam. Sed ornare purus vel felis auctor accumsan. Ut quis est at enim posuere commodo vitae sit amet sapien. Pellentesque maximus urna non venenatis dapibus. Nam interdum sapien at risus hendrerit dignissim. Morbi nec commodo metus, at hendrerit velit. Suspendisse et dictum erat. Vestibulum dignissim gravida odio, quis ornare.</p>
@@ -63,21 +63,21 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/bt-pack-arauco/"/>
-        <id>https://web-ecofor.pages.dev/bt-pack-arauco/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/28/1.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/bt-pack-arauco/"/>
+        <id>https://cf-pages-test-01e.pages.dev/bt-pack-arauco/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/28/1.png" medium="image" />
             <category term="Casos de Estudio"/>
 
         <updated>2023-09-22T11:03:55-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/28/1.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/28/1.png" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ligula nisl, rhoncus sollicitudin sem ut, commodo eleifend neque. Aliquam dapibus, ex ac feugiat rhoncus, risus metus viverra lacus, nec suscipit ipsum justo a ligula. Duis ante odio, iaculis a sapien eu, scelerisque varius quam. Quisque at sapien vitae velit auctor&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/28/1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/28/1.png" class="type:primaryImage" alt="" /></p>
                 <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ligula nisl, rhoncus sollicitudin sem ut, commodo eleifend neque.</h2>
 <p>Aliquam dapibus, ex ac feugiat rhoncus, risus metus viverra lacus, nec suscipit ipsum justo a ligula. Duis ante odio, iaculis a sapien eu, scelerisque varius quam. Quisque at sapien vitae velit auctor suscipit ac nec enim. Praesent velit diam, vulputate et ultricies elementum, mattis ut magna. Nunc ultrices tellus at nunc rhoncus varius. Curabitur condimentum ligula in nibh suscipit, vulputate placerat urna tempor. Donec mi est, bibendum nec velit a, lobortis pellentesque urna. In sit amet vestibulum elit. Vivamus sit amet tincidunt nisl, sit amet tincidunt turpis. Sed dignissim, ipsum sed egestas lobortis, libero orci porttitor metus, ac porttitor orci quam ut leo. Etiam lobortis mi urna, vitae accumsan quam elementum ac. Nam porta eu tellus id tincidunt.</p>
 <p>Vivamus vel commodo arcu. Sed cursus finibus ipsum, in ullamcorper turpis ullamcorper fringilla. Proin malesuada elementum vestibulum. Maecenas egestas enim vel nunc congue tincidunt. Duis tristique enim sed feugiat volutpat. Donec interdum malesuada sem. Nunc quis aliquet turpis, at ornare velit. Aliquam suscipit metus quis aliquet bibendum. Fusce porta blandit ante, eu semper elit. Vestibulum luctus quis metus ut faucibus. In sodales odio tortor, in mollis neque congue a.</p>
@@ -86,7 +86,7 @@
 <p>Ut egestas vel dolor et rutrum. Vivamus non porta nibh. Proin varius non sapien non commodo. Praesent in lectus ultrices, bibendum mi eu, consectetur orci. Proin fringilla volutpat mauris, eget lacinia velit convallis vitae. In finibus tristique mi, id tincidunt magna rhoncus at. Cras eu enim enim. Donec consequat ac ligula et auctor. Donec dapibus auctor nunc, vel vulputate massa tempor quis. Nullam gravida eros et diam sodales, eu eleifend nulla laoreet. Pellentesque eget facilisis risus, non consequat ante. Nullam efficitur mattis nulla vel interdum. Integer tincidunt nisl dignissim erat lobortis, ut congue augue ornare. Nulla fermentum auctor velit vel malesuada. Mauris suscipit turpis mauris, pharetra blandit nunc interdum eu.</p>
 <p>Nulla facilisi. Morbi pulvinar condimentum mi, sit amet condimentum quam pellentesque in. Morbi vitae arcu eget mauris molestie semper sed ut turpis. Sed lorem lacus, interdum a urna ut, elementum gravida tortor. Fusce scelerisque risus vitae ligula facilisis, at congue massa ullamcorper. Nullam malesuada magna elit, a tristique turpis vestibulum nec. Nulla suscipit sollicitudin quam eu aliquet. Curabitur non laoreet sem. Duis ut ipsum et erat placerat finibus at at nisl. Vestibulum molestie a nunc id mollis. Donec ut suscipit lorem. Fusce scelerisque tortor et lectus eleifend molestie. Morbi diam felis, luctus vel orci sed, maximus fringilla elit.</p>
 <p>Nulla sodales nibh at ex pulvinar volutpat. In augue erat, mattis commodo turpis imperdiet, eleifend lacinia turpis. Sed sagittis sit amet risus vel pulvinar. Phasellus tortor nibh, porttitor at tortor vel, mattis congue nunc. Aliquam faucibus volutpat dapibus. Nullam et tellus vitae purus dapibus posuere id et neque. Integer tincidunt arcu varius mi placerat, sodales porta lacus euismod. Praesent sit amet purus vitae enim lobortis molestie. Suspendisse justo augue, placerat vel leo et, varius porta urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent auctor ante malesuada sapien imperdiet laoreet.</p>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://web-ecofor.pages.dev/media/posts/28/2-3.png" alt="" width="962" height="806" sizes="100vw" srcset="https://web-ecofor.pages.dev/media/posts/28/responsive/2-3-xs.png 300w ,https://web-ecofor.pages.dev/media/posts/28/responsive/2-3-sm.png 480w ,https://web-ecofor.pages.dev/media/posts/28/responsive/2-3-md.png 768w ,https://web-ecofor.pages.dev/media/posts/28/responsive/2-3-lg.png 1024w ,https://web-ecofor.pages.dev/media/posts/28/responsive/2-3-xl.png 1360w ,https://web-ecofor.pages.dev/media/posts/28/responsive/2-3-2xl.png 1600w"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://cf-pages-test-01e.pages.dev/media/posts/28/2-3.png" alt="" width="962" height="806" sizes="100vw" srcset="https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/2-3-xs.png 300w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/2-3-sm.png 480w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/2-3-md.png 768w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/2-3-lg.png 1024w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/2-3-xl.png 1360w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/2-3-2xl.png 1600w"></figure>
 <p>Phasellus sit amet lectus ac sem eleifend bibendum. Vivamus varius justo viverra leo viverra, et rutrum magna malesuada. Nullam nec viverra justo, vel ullamcorper quam. Pellentesque elementum molestie congue. Donec ullamcorper tortor dapibus, volutpat turpis efficitur, fringilla ante. Vestibulum gravida, orci non condimentum pretium, nisl nunc efficitur felis, non aliquam magna orci non lorem. Quisque quis enim at eros auctor varius sed at eros. Sed ornare molestie condimentum. Ut leo tellus, placerat quis augue sit amet, bibendum aliquam sem. Praesent quis elit accumsan, bibendum nibh id, lacinia velit. Donec ipsum orci, rutrum at aliquam quis, rutrum et purus. Pellentesque justo leo, commodo at suscipit at, fermentum non libero. Nullam purus leo, suscipit nec gravida eget, tincidunt ut tellus. Cras in rhoncus magna.</p>
 <p>Phasellus in maximus est. Cras iaculis sapien libero, at bibendum neque ornare in. Fusce sed odio suscipit, mattis orci a, laoreet tellus. Sed bibendum, enim vel euismod ullamcorper, dui nisi sodales libero, quis ornare leo tellus eu nisl. Integer faucibus suscipit lacus, nec mattis mi sodales eget. Sed sit amet sapien placerat, aliquet nibh ac, porta felis. Pellentesque aliquet quam a arcu semper, ac porttitor elit finibus. Vivamus bibendum pharetra commodo. Ut a massa risus. Mauris sapien turpis, venenatis sit amet nibh id, lobortis tristique ante. Integer nec sodales urna. Nulla quis massa dolor. Vestibulum consequat risus quis purus hendrerit euismod. Suspendisse consequat sollicitudin ex, et varius ligula consectetur in.</p>
 <p>Proin viverra bibendum fermentum. Praesent vel pretium sapien, sed aliquet tellus. Ut tincidunt, augue ac dapibus ultricies, augue quam pharetra neque, ac sodales nisi diam nec diam. Fusce sit amet nunc vel erat congue blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse metus felis, consequat in pellentesque sed, rutrum eu augue. Cras faucibus ac dolor id venenatis. Curabitur ut mattis est. Aliquam ultrices lorem at tortor eleifend lobortis. Aliquam faucibus neque ut arcu lacinia mattis. Nulla auctor odio eget ligula scelerisque suscipit. Phasellus ut massa augue. Nunc vehicula scelerisque risus at ultrices. Vestibulum vitae pharetra diam. Nunc dignissim suscipit condimentum.</p>
@@ -120,7 +120,7 @@
 <p>Integer sed turpis eget ex commodo eleifend. Vestibulum facilisis risus tincidunt enim maximus laoreet nec vel lectus. Vestibulum sapien lorem, suscipit et lacus sodales, volutpat lobortis purus. Donec pretium urna quis dolor cursus maximus. Maecenas ut luctus odio. Ut dui arcu, elementum eu pharetra non, luctus at leo. Cras hendrerit eget purus sed bibendum. Quisque eget urna odio. Praesent elementum eleifend tortor, eu imperdiet purus sagittis id. Praesent convallis euismod elit. Ut euismod id mauris eget gravida. Donec faucibus lacinia magna non lacinia. Duis fringilla, erat ac laoreet tempus, sem mauris molestie lacus, a aliquam diam neque non libero. Duis feugiat nulla non mi fringilla molestie. Nunc vitae facilisis turpis. Pellentesque nec viverra urna.</p>
 <p>Curabitur bibendum nunc ut porttitor tristique. Mauris porta enim non tortor ultricies, sed commodo orci blandit. Mauris dictum, quam et gravida feugiat, augue velit fringilla libero, eget aliquam lorem lectus ut dui. Integer et nisi fermentum, pharetra massa sed, pellentesque justo. Nullam metus arcu, maximus non posuere a, rhoncus sed erat. Praesent turpis dolor, vulputate a dui sed, imperdiet tempor nulla. Quisque ultricies efficitur bibendum. Maecenas fringilla urna nec odio sodales efficitur. Aenean finibus velit pellentesque nibh placerat, et consectetur justo convallis.</p>
 <p>Nam blandit ultricies felis, vitae rhoncus justo pretium vitae. Integer consectetur neque lectus, et aliquet metus elementum vitae. Nullam vitae justo sapien. Morbi vulputate ante et luctus sagittis. Nulla id est non tellus dictum pulvinar. Nulla euismod metus ac leo lobortis, vel posuere risus vehicula. Etiam eget dui nec nisi molestie pretium. Nullam nec justo eu orci aliquam posuere sed nec orci. Proin lorem ipsum, viverra ut ante a, molestie viverra neque. In ultricies convallis elit, in vehicula purus.</p>
-<figure class="post__image"><img loading="lazy"  src="https://web-ecofor.pages.dev/media/posts/28/3.png" alt="" width="1702" height="743" sizes="100vw" srcset="https://web-ecofor.pages.dev/media/posts/28/responsive/3-xs.png 300w ,https://web-ecofor.pages.dev/media/posts/28/responsive/3-sm.png 480w ,https://web-ecofor.pages.dev/media/posts/28/responsive/3-md.png 768w ,https://web-ecofor.pages.dev/media/posts/28/responsive/3-lg.png 1024w ,https://web-ecofor.pages.dev/media/posts/28/responsive/3-xl.png 1360w ,https://web-ecofor.pages.dev/media/posts/28/responsive/3-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://cf-pages-test-01e.pages.dev/media/posts/28/3.png" alt="" width="1702" height="743" sizes="100vw" srcset="https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/3-xs.png 300w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/3-sm.png 480w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/3-md.png 768w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/3-lg.png 1024w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/3-xl.png 1360w ,https://cf-pages-test-01e.pages.dev/media/posts/28/responsive/3-2xl.png 1600w"></figure>
 <p>Nulla ut ipsum rutrum, vehicula urna ac, laoreet nulla. Proin rutrum aliquam lectus quis volutpat. Ut sapien neque, ultrices id nunc ac, eleifend vestibulum justo. Quisque enim mauris, vestibulum commodo lectus non, aliquam interdum elit. Morbi consequat, ante sollicitudin lobortis porta, justo tortor tempus purus, eget consectetur lorem nulla at magna. Proin sagittis mauris non nisl facilisis fringilla. Sed erat libero, fermentum facilisis odio vel, ultrices dictum arcu. Mauris quis aliquet lorem. Praesent pulvinar lorem nisi, id porttitor velit varius at. Fusce euismod condimentum maximus. Integer dictum, est sit amet bibendum rutrum, libero sapien aliquam risus, in consectetur diam risus id nulla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nunc ex, placerat malesuada suscipit sed, sollicitudin ac lorem.</p>
 <p>Nunc purus odio, ultrices interdum urna sit amet, fringilla lobortis lacus. Etiam non imperdiet purus. Donec ac leo tellus. Phasellus et porta sem, tristique dictum risus. Donec scelerisque nulla metus, a tincidunt augue euismod at. Proin dictum massa quam, eget tristique elit vulputate ac. Suspendisse non viverra tellus. Sed in placerat diam. Suspendisse et libero mi. Praesent varius ullamcorper augue, in consectetur diam efficitur accumsan. Donec porttitor posuere purus, ut bibendum nisi gravida a. Donec pulvinar sed nulla at dictum. Quisque tincidunt finibus lacus, at auctor mauris scelerisque id. Duis lectus nisl, interdum scelerisque imperdiet ut, vulputate at dolor. Nullam congue laoreet viverra. Praesent in risus in nulla consequat sodales.</p>
 <p>Vivamus dictum massa odio, consequat convallis velit malesuada et. Mauris feugiat porta arcu condimentum tristique. Aliquam finibus, felis cursus lobortis convallis, mauris ipsum congue libero, ut porttitor leo elit in sapien. Phasellus laoreet semper mi, non tristique nisi semper vel. Suspendisse laoreet facilisis euismod. Curabitur rutrum sagittis erat, vitae mattis lectus hendrerit eu. Quisque in arcu a lacus dignissim tincidunt et at augue. Nullam dignissim, eros scelerisque commodo placerat, lacus sem lobortis sem, luctus porta quam velit sed elit. Proin in orci placerat, gravida neque a, laoreet odio. Duis tempus orci mauris, vitae malesuada tortor tincidunt ac. Pellentesque porttitor lorem at pretium faucibus. Donec suscipit, urna vitae accumsan volutpat, est velit maximus odio, at tempus massa lorem vestibulum sapien. Aenean suscipit eu neque a semper. Maecenas commodo velit vulputate venenatis commodo. Aliquam magna orci, sodales eu consequat at, auctor nec lacus. Aenean accumsan rhoncus justo in efficitur.</p>
@@ -139,22 +139,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/producto-5/"/>
-        <id>https://web-ecofor.pages.dev/producto-5/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/27/1.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/producto-5/"/>
+        <id>https://cf-pages-test-01e.pages.dev/producto-5/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/27/1.png" medium="image" />
             <category term="Productos"/>
 
         <updated>2023-09-26T15:53:22-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/27/1.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/27/1.png" alt="" />
                     <p>Prueba</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/27/1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/27/1.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
@@ -165,22 +165,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/nuevo-producto/"/>
-        <id>https://web-ecofor.pages.dev/nuevo-producto/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/26/1.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/nuevo-producto/"/>
+        <id>https://cf-pages-test-01e.pages.dev/nuevo-producto/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/26/1.png" medium="image" />
             <category term="Productos"/>
 
         <updated>2023-09-26T15:53:32-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/26/1.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/26/1.png" alt="" />
                     <p>Prueba resumen nuevo producto</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/26/1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/26/1.png" class="type:primaryImage" alt="" /></p>
                 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut egestas tortor non faucibus posuere. Nullam mi metus, auctor a ligula non, scelerisque fringilla nisl. Phasellus sit amet est varius, vestibulum magna non, interdum libero. Mauris at pretium leo. Vivamus non leo nisl. Fusce neque diam, tincidunt vitae sem eget, auctor posuere quam. Sed ornare purus vel felis auctor accumsan. Ut quis est at enim posuere commodo vitae sit amet sapien. Pellentesque maximus urna non venenatis dapibus. Nam interdum sapien at risus hendrerit dignissim. Morbi nec commodo metus, at hendrerit velit. Suspendisse et dictum erat. Vestibulum dignissim gravida odio, quis ornare.</p>
             ]]>
@@ -191,22 +191,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/desarrollo-hardware/"/>
-        <id>https://web-ecofor.pages.dev/desarrollo-hardware/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/24/3643771_configuration_configure_gear_set_setting_icon.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/desarrollo-hardware/"/>
+        <id>https://cf-pages-test-01e.pages.dev/desarrollo-hardware/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/24/3643771_configuration_configure_gear_set_setting_icon.png" medium="image" />
             <category term="Caracteristicas"/>
 
         <updated>2023-09-11T09:45:54-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/24/3643771_configuration_configure_gear_set_setting_icon.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/24/3643771_configuration_configure_gear_set_setting_icon.png" alt="" />
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/24/3643771_configuration_configure_gear_set_setting_icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/24/3643771_configuration_configure_gear_set_setting_icon.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
@@ -217,22 +217,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/sistemas-embebidos/"/>
-        <id>https://web-ecofor.pages.dev/sistemas-embebidos/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/23/7397430_artificial-intelligence_ai_chip_technology_computer_icon.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/sistemas-embebidos/"/>
+        <id>https://cf-pages-test-01e.pages.dev/sistemas-embebidos/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/23/7397430_artificial-intelligence_ai_chip_technology_computer_icon.png" medium="image" />
             <category term="Caracteristicas"/>
 
         <updated>2023-09-11T09:46:00-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/23/7397430_artificial-intelligence_ai_chip_technology_computer_icon.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/23/7397430_artificial-intelligence_ai_chip_technology_computer_icon.png" alt="" />
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/23/7397430_artificial-intelligence_ai_chip_technology_computer_icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/23/7397430_artificial-intelligence_ai_chip_technology_computer_icon.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
@@ -243,22 +243,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/desarrollo-android/"/>
-        <id>https://web-ecofor.pages.dev/desarrollo-android/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/22/4243247_basic_phone_app_ux_icon.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/desarrollo-android/"/>
+        <id>https://cf-pages-test-01e.pages.dev/desarrollo-android/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/22/4243247_basic_phone_app_ux_icon.png" medium="image" />
             <category term="Caracteristicas"/>
 
         <updated>2023-09-11T09:46:04-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/22/4243247_basic_phone_app_ux_icon.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/22/4243247_basic_phone_app_ux_icon.png" alt="" />
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/22/4243247_basic_phone_app_ux_icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/22/4243247_basic_phone_app_ux_icon.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
@@ -269,22 +269,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/desarrollo-sistemas-web/"/>
-        <id>https://web-ecofor.pages.dev/desarrollo-sistemas-web/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/21/290121_computer_desktop_monitor_computer-screen_icon.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/desarrollo-sistemas-web/"/>
+        <id>https://cf-pages-test-01e.pages.dev/desarrollo-sistemas-web/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/21/290121_computer_desktop_monitor_computer-screen_icon.png" medium="image" />
             <category term="Caracteristicas"/>
 
         <updated>2023-09-11T09:46:08-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/21/290121_computer_desktop_monitor_computer-screen_icon.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/21/290121_computer_desktop_monitor_computer-screen_icon.png" alt="" />
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/21/290121_computer_desktop_monitor_computer-screen_icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/21/290121_computer_desktop_monitor_computer-screen_icon.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
@@ -295,22 +295,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/plataforma-ti/"/>
-        <id>https://web-ecofor.pages.dev/plataforma-ti/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/20/4213409_backup_data_database_server_storage_icon.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/plataforma-ti/"/>
+        <id>https://cf-pages-test-01e.pages.dev/plataforma-ti/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/20/4213409_backup_data_database_server_storage_icon.png" medium="image" />
             <category term="Caracteristicas"/>
 
         <updated>2023-09-11T09:46:13-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/20/4213409_backup_data_database_server_storage_icon.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/20/4213409_backup_data_database_server_storage_icon.png" alt="" />
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/20/4213409_backup_data_database_server_storage_icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/20/4213409_backup_data_database_server_storage_icon.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
@@ -321,22 +321,22 @@
         <author>
             <name>daniel</name>
         </author>
-        <link href="https://web-ecofor.pages.dev/asesoria-tecnologica/"/>
-        <id>https://web-ecofor.pages.dev/asesoria-tecnologica/</id>
-        <media:content url="https://web-ecofor.pages.dev/media/posts/19/3643eee1_icon.png" medium="image" />
+        <link href="https://cf-pages-test-01e.pages.dev/asesoria-tecnologica/"/>
+        <id>https://cf-pages-test-01e.pages.dev/asesoria-tecnologica/</id>
+        <media:content url="https://cf-pages-test-01e.pages.dev/media/posts/19/3643eee1_icon.png" medium="image" />
             <category term="Caracteristicas"/>
 
         <updated>2023-09-11T09:31:20-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://web-ecofor.pages.dev/media/posts/19/3643eee1_icon.png" alt="" />
+                        <img src="https://cf-pages-test-01e.pages.dev/media/posts/19/3643eee1_icon.png" alt="" />
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://web-ecofor.pages.dev/media/posts/19/3643eee1_icon.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://cf-pages-test-01e.pages.dev/media/posts/19/3643eee1_icon.png" class="type:primaryImage" alt="" /></p>
                 
 <p> </p>
             ]]>
